@@ -14,5 +14,6 @@ public interface SaludoInterfaz {
     System.out.println("Hola mundo");
   }
 
+  // Esta es la forma clasica de definir un metodo en una interfaz
   void despedir();
 }
